@@ -1,3 +1,0 @@
-{
-  ["GlobalText"] = "test gun shooter test"
-}
